@@ -44,3 +44,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
+🌐 Portfolio: [beesinesshive.com](https://www.beesinesshive.com)
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRobledo24&show_icons=true&theme=radical)
+
+
+
+
