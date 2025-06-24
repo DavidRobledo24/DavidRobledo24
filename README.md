@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScritp, Python, Java
+- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScritp, React, TypeScript, Tailwind
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks
 
